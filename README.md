@@ -8,7 +8,7 @@
 
 - Valerio Lucarelli: https://bitbucket.org/valeriolucarelli/workspace/repositories
 
-- Lenny Lucchetti: 
+- Lenny Lucchetti: https://bitbucket.org/lennyluchetti/workspace/projects/OJ
 
 - Gianluca Luzi: https://bitbucket.org/gianlucaluzi/workspace/projects
 
