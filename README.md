@@ -6,7 +6,7 @@
 
 - Thomas Demarcus: https://bitbucket.org/accademy/workspace/projects/OJ
 
-- Valerio Lucarelli: 
+- Valerio Lucarelli: https://bitbucket.org/valeriolucarelli/workspace/repositories
 
 - Lenny Lucchetti: 
 
